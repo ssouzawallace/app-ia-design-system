@@ -1,7 +1,8 @@
 # AppiaCare - Design System
 
+![Image of Appia's logo](/Logo.png)
 
-Sobre cultura mobile
+Sobre cultura mobile.
 
 
 ## Material Design
@@ -45,23 +46,32 @@ Benefícios
 
 ### Exemplo de tela
 
+![Image of a login screen in the Appia's patient app ](/Mobile - Login screen.png)
+
+Sobre cultura mobile.
 
 
 ### Paleta de cores
 
+![Image of Appia's color system](/Pallet.png)
 
 ### Elevações
 
+![Image of Appia's common material elevations](/Elevations.png)
 
 ### Contraste
-Dark/light
-Bold/Regular
-Urgent/Not urgent
-Primary actions/Secondary actions
+
+Exemplos de uso:
+
+- Dark/light
+- Bold/Regular
+- Urgent/Not urgent
+- Primary actions/Secondary actions
+
+![Image of Appia's constrast testy](/Contrast.png)
 
 
-
-#### Para desenvolvedores
+## Para desenvolvedores
 
 https://material.io/develop/
 
